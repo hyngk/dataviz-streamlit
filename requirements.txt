@@ -1,2 +1,2 @@
-matpotlib
-poltly
+matplotlib
+plotly
